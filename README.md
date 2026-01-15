@@ -3,6 +3,8 @@ simple (?) tui music player
 
 ## Prerequisits
 This program is written in FASM assembly, so one should have a FASM assembler.
+In addition, one should add fasm include folder location in `INCLUDE`
+environment variable.
 
 ## how to build?
 First clone this repo by the following command
